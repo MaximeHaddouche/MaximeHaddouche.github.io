@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor in Mathematics and Computer Science, [ENS Paris-Saclay](https://ens-paris-saclay.fr/), 2017
+* Agrégation de Mathématiques (french diploma for Mathematical teaching), [ENS Paris-Saclay](https://ens-paris-saclay.fr/) , 2019
+* M.S. in Statistics, [Sorbonne Université](https://www.sorbonne-universite.fr/), 2021
+* Ph.D in Statistical Learning, [Inria](https://www.inria.fr/en), 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring-Summer 2021
+Research Assistant in Online Learning
+  * [Sorbonne Université](https://www.sorbonne-universite.fr/)
+  * Supervisor: [Olivier Wintenberger](http://wintenberger.fr/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct 2019-Aug 2020: Research Assistant in Statistical Learning
+  * [University College of London](https://www.ucl.ac.uk/)
+  * Supervisor: [Benjamin Guedj](https://bguedj.github.io/)
+
+* Summer 2018: Research Assistant in Natural Language Processing
+  * xBrain (Parisian startup)
+  * Supervisor: [Warith Harchaoui](https://www.harchaoui.org/warith/)
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -42,18 +38,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+[comment]: <> (Talks)
+[comment]: <> ( ====== )
+[comment]: <> ( <ul>{% for post in site.talks %} )
+[comment]: <> (    {% include archive-single-talk-cv.html %} )
+[comment]: <> (  {% endfor %}</ul> )
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[comment]: <> (Teaching)
+[comment]: <> (======)
+[comment]: <> (  <ul>{% for post in site.teaching %})
+[comment]: <> (    {% include archive-single-cv.html %})
+[comment]: <> (  {% endfor %}</ul>)
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
