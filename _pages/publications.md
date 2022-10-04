@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## 2022
+* M. Haddouche, B. Guedj, PAC-Bayes with Unbounded Losses through Supermartingales, submitted, Preprint on [arXiv](https://arxiv.org/abs/2210.00928)
 * M. Haddouche, B. Guedj, Online PAC-Bayes Learning. Preprint on [arXiv](https://arxiv.org/abs/2206.00024). To be published at [Neurips 2022](https://nips.cc/)
 
 ## 2021
