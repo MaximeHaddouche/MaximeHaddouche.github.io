@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2023
 
-* M. Haddouche, B. Guedj, O. Wintenberger, [Optimistic Dynamic Regret Bounds]((https://arxiv.org/abs/2301.07530), submitted
+* M. Haddouche, B. Guedj, O. Wintenberger, [Optimistic Dynamic Regret Bounds](https://arxiv.org/abs/2301.07530), submitted
 
 ## 2022
 * M. Haddouche, B. Guedj, [PAC-Bayes with Unbounded Losses through Supermartingales](https://arxiv.org/abs/2210.00928), submitted.
