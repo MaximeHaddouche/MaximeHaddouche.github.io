@@ -5,9 +5,6 @@ permalink: /service/
 author_profile: true
 ---
 
-
-# Service
-
 ## Scientific Events
  * Reviewer for [ICML](https://icml.cc/) 2023 Workshop: [PAC-Bayes Meets Interactive Learning](https://bguedj.github.io/icml2023-workshop/)
 
