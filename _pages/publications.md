@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 ## 2023
-
+* M. Haddouche, B. Guedj, [Wasserstein PAC-Bayes Learning: A Bridge Between Generalisation and Optimisation](https://arxiv.org/abs/2304.07048).
 * M. Haddouche, B. Guedj, O. Wintenberger, [Optimistic Dynamic Regret Bounds](https://arxiv.org/abs/2301.07530), submitted
-
+* M. Haddouche, B. Guedj, [PAC-Bayes Generalisation Bounds for Heavy-Tailed Losses through Supermartingales](https://openreview.net/pdf?id=qxrwt6F3sf), [Transactions on Machine Learning Research](https://jmlr.org/tmlr/).
 ## 2022
-* M. Haddouche, B. Guedj, [PAC-Bayes with Unbounded Losses through Supermartingales](https://arxiv.org/abs/2210.00928), submitted.
+
 * M. Haddouche, B. Guedj, [Online PAC-Bayes Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a4d991d581accd2955a1e1928f4e6965-Abstract-Conference.html), [Neurips 2022](https://nips.cc/)
 
 ## 2021
