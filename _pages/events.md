@@ -7,7 +7,7 @@ author_profile: true
 
 ### Talk, Inria, [OCKHAM](https://www.inria.fr/fr/ockham) research team
 * Sep. 2023, Lyon, France
-* Talk on [Wasserstein PAC-Bayes learning: intrications between generalisation and optimisation](../files/WPB-Lyon.pdf)
+* Talk on [Wasserstein PAC-Bayes learning: intrications between generalisation and optimisation](../files/WPB-lyon.pdf)
 
 ### Journées [Young Statisticians and Probabilists (YSP) 2023](https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/)
 * Jan. 2023, Paris, France
