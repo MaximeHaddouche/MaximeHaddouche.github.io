@@ -5,6 +5,10 @@ permalink: /events/
 author_profile: true
 ---
 
+### Talk, Inria, [OCKHAM](https://www.inria.fr/fr/ockham) research team
+* Sep. 2023, Lyon, France
+* Talk on [Wasserstein PAC-Bayes learning: intrications between generalisation and optimisation](../files/WPB-Lyon.pdf)
+
 ### Journées [Young Statisticians and Probabilists (YSP) 2023](https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/)
 * Jan. 2023, Paris, France
 * Talk on [Online PAC-Bayes learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a4d991d581accd2955a1e1928f4e6965-Abstract-Conference.html)
@@ -20,7 +24,7 @@ author_profile: true
 ### [Conference on Learning Theory (COLT) 2022](https://learningtheory.org/colt2022/)
 * July 2022, London, UK
 
-### Talk, Inria, [DYOGENE](https://www.inria.fr/en/dyogene) team
+### Talk, Inria, [DYOGENE](https://www.inria.fr/en/dyogene) research team
 * June 2022, Paris, France
 * Team seminar on [PAC-Bayes learning beyond bounded losses: an introduction to PAC-Bayes learning](../files/slides_BS_06_22.pdf).
 
