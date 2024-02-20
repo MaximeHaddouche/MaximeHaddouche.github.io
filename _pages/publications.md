@@ -18,6 +18,9 @@ author_profile: true
 
 
 ## Preprints
+* M. Haddouche, P. Viallard, U. Simsekli, B.Guedj, [A PAC-Bayesian Link Between Generalisation and Flat Minima](https://arxiv.org/abs/2402.08508)
+* P. Viallard, M. Haddouche, U. Simsekli, B. Guedj, [Tighter Generalisation Bounds via Interpolation](https://arxiv.org/abs/2402.05101)
+* P.Jobic, M.Haddouche, B. Guedj, [Federated Learning with Nonvacuous Generalisation Bounds](https://arxiv.org/abs/2310.11203)
 * M. Haddouche, B. Guedj, [Wasserstein PAC-Bayes Learning: A Bridge Between Generalisation and Optimisation](https://arxiv.org/abs/2304.07048).
-* M. Haddouche, B. Guedj, O. Wintenberger, [Optimistic Dynamic Regret Bounds](https://arxiv.org/abs/2301.07530).
+* M. Haddouche, O. Wintenberger, B. Guedj [Optimistically Tempered Online Learning](https://arxiv.org/abs/2301.07530).
 * M. Haddouche, B. Guedj, O. Rivasplata and J. Shawe-Taylor. [Upper and Lower Bounds on the Performance of Kernel PCA](https://arxiv.org/abs/2012.10369).
