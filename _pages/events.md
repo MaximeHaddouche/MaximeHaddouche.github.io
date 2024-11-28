@@ -5,7 +5,15 @@ permalink: /events/
 author_profile: true
 ---
 
-### Talk, Inria, [OCKHAM](https://www.inria.fr/fr/ockham) research team
+## Talk, Journée de la Statistique 2024
+* May 2024, Bordeaux, France
+* Talk on [A PAC-Bayesian Link Between Generalisation and Flat Minimaj](https://arxiv.org/abs/2402.08508)
+
+### Team seminar, Inria Paris, [SIERRA](https://sierra-mlopt.github.io/) research team
+* Jan. 2024, Paris, France
+* Talk on [A PAC-Bayesian Link Between Generalisation and Flat Minimaj](https://arxiv.org/abs/2402.08508)
+
+### Team seminar, Inria Lyon, [OCKHAM](https://www.inria.fr/fr/ockham) research team
 * Sep. 2023, Lyon, France
 * Talk on [Wasserstein PAC-Bayes learning: intrications between generalisation and optimisation](../files/WPB-lyon.pdf)
 
