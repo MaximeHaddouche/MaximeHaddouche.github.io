@@ -11,10 +11,8 @@ redirect_from:
 Education
 ======
 
-* Ph.D in Statistical Learning, [Inria](https://www.inria.fr/en), 2024 (expected)
-* M.S. in Statistics, [Sorbonne Université](https://www.sorbonne-universite.fr/), 2021
+* Ph.D in Statistical Learning, [Inria](https://www.inria.fr/en), 2024 
 * Agrégation de Mathématiques (french diploma for Mathematical teaching), [ENS Paris-Saclay](https://ens-paris-saclay.fr/) , 2019
-* Bachelor in Mathematics and Computer Science, [ENS Paris-Saclay](https://ens-paris-saclay.fr/), 2017
 
 Work experience
 ======
