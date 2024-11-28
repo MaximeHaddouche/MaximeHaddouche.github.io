@@ -7,11 +7,11 @@ author_profile: true
 
 ## Talk, Journée de la Statistique 2024
 * May 2024, Bordeaux, France
-* Talk on [A PAC-Bayesian Link Between Generalisation and Flat Minimaj](https://arxiv.org/abs/2402.08508)
+* Talk on [A PAC-Bayesian Link Between Generalisation and Flat Minima](../files/PLS_JdS_2024.pdf)
 
 ### Team seminar, Inria Paris, [SIERRA](https://sierra-mlopt.github.io/) research team
 * Jan. 2024, Paris, France
-* Talk on [A PAC-Bayesian Link Between Generalisation and Flat Minimaj](https://arxiv.org/abs/2402.08508)
+* Talk on [A PAC-Bayesian Link Between Generalisation and Flat Minima](https://arxiv.org/abs/2402.08508)
 
 ### Team seminar, Inria Lyon, [OCKHAM](https://www.inria.fr/fr/ockham) research team
 * Sep. 2023, Lyon, France
