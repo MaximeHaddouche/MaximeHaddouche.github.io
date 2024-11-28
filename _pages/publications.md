@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## 2024
 * M. Haddouche, B. Guedj, J. Shawe-Taylor [Generalisation bounds for kernel PCA through PAC‐Bayes learning](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sta4.719), [Stat](https://onlinelibrary.wiley.com/journal/20491573).
-* M. Haddouche [PAC-Bayes Learning From an Optimisation Perspective](..\files\139903_HADDOUCHE_2024_archivage-2.pdf), PhD Thesis 
+* M. Haddouche [PAC-Bayes Learning From an Optimisation Perspective](../files/139903_HADDOUCHE_2024_archivage-2.pdf), PhD Thesis 
 
 ## 2023
 * P. Viallard, M.Haddouche, U. Simsekli, B.Guedj, [Learning via Wasserstein-Based High Probability Generalisation Bounds](https://proceedings.neurips.cc/paper_files/paper/2023/hash/af2bb2b2280d36f8842e440b4e275152-Abstract-Conference.html), [Neurips 2023](https://nips.cc/)
