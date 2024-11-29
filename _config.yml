@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Maxime Haddouche"
 title_separator          : "-"
 name                     : &name "Maxime Haddouche"
-description              : &description "PhD Student in Learning Theory. "
+description              : &description "Postdoctorate researcher in Learning Theory. "
 url                      : https://MaximeHaddouche.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MaximeHaddouche/MaximeHaddouche.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Maxime Haddouche"
   avatar           : "profile.png"
-  bio              : "PhD Student in Mathematics and Computer Science"
-  location         : "Paris-London"
+  bio              : "Postdocotrate researcher in Learning Theory"
+  location         : "Paris"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0U7gG1sAAAAJ&hl=fr&oi=ao"
