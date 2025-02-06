@@ -21,6 +21,8 @@ author_profile: true
 
 
 ## Preprints
+* B. Dupuis, M.Haddouche, G. Deligiannidis, U. Simsekli, [Understanding the Generalization Error of Markov algorithms through
+Poissonization](../files/Poissonization.pdf)
 * M. Haddouche, P. Viallard, U. Simsekli, B.Guedj, [A PAC-Bayesian Link Between Generalisation and Flat Minima](https://arxiv.org/abs/2402.08508)
 * P. Viallard, M. Haddouche, U. Simsekli, B. Guedj, [Tighter Generalisation Bounds via Interpolation](https://arxiv.org/abs/2402.05101)
 * P.Jobic, M.Haddouche, B. Guedj, [Federated Learning with Nonvacuous Generalisation Bounds](https://arxiv.org/abs/2310.11203)
