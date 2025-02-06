@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2025
+* M. Haddouche, P. Viallard, U. Simsekli, B.Guedj, [A PAC-Bayesian Link Between Generalisation and Flat Minima](https://arxiv.org/abs/2402.08508)
+
 ## 2024
 * M. Haddouche, B. Guedj, J. Shawe-Taylor [Generalisation bounds for kernel PCA through PAC‐Bayes learning](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sta4.719), [Stat](https://onlinelibrary.wiley.com/journal/20491573).
 * M. Haddouche [PAC-Bayes Learning From an Optimisation Perspective](../files/139903_HADDOUCHE_2024_archivage-2.pdf), PhD Thesis 
@@ -23,7 +26,6 @@ author_profile: true
 ## Preprints
 * B. Dupuis, M.Haddouche, G. Deligiannidis, U. Simsekli, [Understanding the Generalization Error of Markov algorithms through
 Poissonization](../files/Poissonization.pdf)
-* M. Haddouche, P. Viallard, U. Simsekli, B.Guedj, [A PAC-Bayesian Link Between Generalisation and Flat Minima](https://arxiv.org/abs/2402.08508)
 * P. Viallard, M. Haddouche, U. Simsekli, B. Guedj, [Tighter Generalisation Bounds via Interpolation](https://arxiv.org/abs/2402.05101)
 * P.Jobic, M.Haddouche, B. Guedj, [Federated Learning with Nonvacuous Generalisation Bounds](https://arxiv.org/abs/2310.11203)
 * M. Haddouche, B. Guedj, [Wasserstein PAC-Bayes Learning: Exploiting Optimisation Guarantees to Explain Generalisation](https://arxiv.org/abs/2304.07048).
