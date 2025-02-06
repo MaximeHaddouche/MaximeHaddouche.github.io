@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### Team seminar, IMT Toulouse, [Statistiques-Optimisation](https://www.math.univ-toulouse.fr/fr/recherche/teams/statistiques-et-optimisation/) research team
 * Feb. 2025, Toulouse, France
-* Talk on [An introduction to PAC-Bayes Learning and its Links to Flat Minima](../files/toulouse.pdf)
+* Talk on [An introduction to PAC-Bayes Learning and its Links to Flat Minima](../files/toulouse_feb_25.pdf)
 
 ### Talk, Journée de la Statistique 2024
 * May 2024, Bordeaux, France
