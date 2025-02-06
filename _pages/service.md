@@ -12,7 +12,8 @@ author_profile: true
 ## Reviewing activities
 
 * [NeurIPS](https://nips.cc/) 2022 (best reviewer award), 2023
-* [ICML](https://icml.cc/) 2023,2024
+* [ICML](https://icml.cc/) 2023,2024,2025
 * [ICLR](https://iclr.cc/) 2024,2025
 * [AISTATS](https://aistats.org/) 2022
 * [JMLR](https://www.jmlr.org/)
+* [COLT](https://learningtheory.org/colt2025/) 2025
