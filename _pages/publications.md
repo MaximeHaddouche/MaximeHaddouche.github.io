@@ -24,8 +24,11 @@ author_profile: true
 
 
 ## Preprints
+* M. Haddouche, O. Sakhi [Logarithmic Smoothing for Adaptive PAC-Bayesian Off-Policy Learning](https://arxiv.org/abs/2506.10664)
+* A. Capitaine, M. Haddouche, E. Moulines, M. I. Jordan, E. Boursier, A. Durmus [Online decision-Focused Learning](https://arxiv.org/abs/2505.13564)
+* B. Dupuis, D. Shariatian, M.Haddouche, A. Durmus, U. Simsekli, [Algorithm-and Data-Dependent Generalization Bounds for Score-Based Generative Models](https://arxiv.org/abs/2506.03849) 
 * B. Dupuis, M.Haddouche, G. Deligiannidis, U. Simsekli, [Understanding the Generalization Error of Markov algorithms through
-Poissonization](../files/Poissonization.pdf)
+Poissonization](https://arxiv.org/abs/2502.07584)
 * P. Viallard, M. Haddouche, U. Simsekli, B. Guedj, [Tighter Generalisation Bounds via Interpolation](https://arxiv.org/abs/2402.05101)
 * P.Jobic, M.Haddouche, B. Guedj, [Federated Learning with Nonvacuous Generalisation Bounds](https://arxiv.org/abs/2310.11203)
 * M. Haddouche, B. Guedj, [Wasserstein PAC-Bayes Learning: Exploiting Optimisation Guarantees to Explain Generalisation](https://arxiv.org/abs/2304.07048).
