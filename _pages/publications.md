@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2026
+* A. Capitaine, M. Haddouche, E. Moulines, M. I. Jordan, E. Boursier, A. Durmus [Online decision-Focused Learning](https://arxiv.org/abs/2505.13564), [ICLR 2026](https://iclr.cc/)
+* * M. Haddouche, O. Sakhi [Sequential Off-Policy Learning with Logarithmic Smoothing](https://arxiv.org/abs/2506.10664), [AISTATS 2026](http://aistats.org/aistats2026/)
 ## 2025
 * M. Haddouche, P. Viallard, U. Simsekli, B.Guedj, [A PAC-Bayesian Link Between Generalisation and Flat Minima](https://arxiv.org/abs/2402.08508), [ALT 2025](https://algorithmiclearningtheory.org/alt2025/)
 * B. Dupuis, D. Shariatian, M.Haddouche, A. Durmus, U. Simsekli, [Algorithm-and Data-Dependent Generalization Bounds for Score-Based Generative Models](https://arxiv.org/abs/2506.03849), [NeurIPS 2025](https://nips.cc/)
@@ -26,8 +29,6 @@ author_profile: true
 
 ## Preprints
 * M. Haddouche, O. Wintenberger, B. Guedj [Online (Non-)Convex Learning via Tempered Optimism ](https://arxiv.org/abs/2301.07530).
-* M. Haddouche, O. Sakhi [Logarithmic Smoothing for Adaptive PAC-Bayesian Off-Policy Learning](https://arxiv.org/abs/2506.10664)
-* A. Capitaine, M. Haddouche, E. Moulines, M. I. Jordan, E. Boursier, A. Durmus [Online decision-Focused Learning](https://arxiv.org/abs/2505.13564)
 * B. Dupuis, M.Haddouche, G. Deligiannidis, U. Simsekli, [Understanding the Generalization Error of Markov algorithms through
 Poissonization](https://arxiv.org/abs/2502.07584)
 * P. Viallard, M. Haddouche, U. Simsekli, B. Guedj, [Tighter Generalisation Bounds via Interpolation](https://arxiv.org/abs/2402.05101)
